@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DataBaseExample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="debt">Взял в долг</string>
+    <string name="credit">Дал в долг</string>
+</resources>
